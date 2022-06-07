@@ -6,7 +6,7 @@ sites:
   - name: MLB_ptt
     url: https://www.ptt.cc/bbs/MLB/index.html
   - name: youtube
-    url: https://www.youtube.com/
+    url: https://www.youtube.com
   - name: maps
     url: https://www.google.com/maps/@25.0445824,121.5168512,12z
   - name: news
